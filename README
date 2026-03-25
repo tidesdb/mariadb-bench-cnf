@@ -3,4 +3,4 @@ When benchmarking engines within MariaDB it is pretty hard to get engines aligne
 This configuration repo is to assist with one-to-one configurations for proper analysis against InnoDB, RocksDB, and TidesDB.
 
 Tested with 
-- MariaDB 12.2.2
+- MariaDB 12.2.2, 11.8
